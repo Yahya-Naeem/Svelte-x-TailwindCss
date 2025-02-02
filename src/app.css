@@ -1,0 +1,10 @@
+
+
+/* 
+    Old way 
+@tailwind base;
+@tailwind components;
+@tailwind utilities; */
+
+/* src/app.css */
+@import "tailwindcss";
